@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkeeble1984
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python using the book "Coding for Beginners" and the online course from udemy "Complete Python Bootcamp For Everyone From Zero to Hero 2024".
 - 💞️ I’m looking to collaborate on anything basic, things that will help me develop my skills.
 - 📫 How to reach me through GitHub.
 - ⚡ Fun fact: Currently a High School Science Teacher, but started my career as a PE Teacher.
